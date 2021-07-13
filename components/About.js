@@ -9,10 +9,10 @@ export default function About(about){
             <div class="project-img">
             </div>
             
-            <form method="get" action="fhackathon.uf2">
+            <form method="get" action="hackathon.uf2">
              <button type="submit">Download!</button>
              </form>
-            <form method="get" action="./hackathon.uf2">
+            <form method="get" action="hackathon.uf2">
                     <button class="button" type="Submit" style="margin-top: 30px; margin-bottom: 50px;"> Firmware </button>
             </form>
 
