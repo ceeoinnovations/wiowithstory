@@ -8,8 +8,8 @@ export default function About(about){
             <p>${about[0].description}</p>
             <div class="project-img">
             </div>
-            <a href="${about[0].buttonlink}" target="https://www.google.com">
-                    <button class="button" style="margin-top: 30px; margin-bottom: 50px;">${about[0].buttonlabel}</button>
+            <a href="https://drive.google.com/drive/u/1/folders/1B2GM1fcwV51vLE_9PwgWTxeGHP0479U9" target="_blank">
+                    <button class="button" style="margin-top: 30px; margin-bottom: 50px;"> FIRMWARE </button>
                 </a>
                 <a href="${about[0].buttonlink}" target="_blank">
                     <button class="button" style="margin-top: 30px; margin-bottom: 50px;">${about[0].buttonlabel}</button>
