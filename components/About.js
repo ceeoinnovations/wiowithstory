@@ -10,7 +10,7 @@ export default function About(about){
             </div>
             
             <form method="get" action="./hackathon.uf2">
-                    <button class="button" style="margin-top: 30px; margin-bottom: 50px;"> Firmware </button>
+                    <button class="button" type="Submit" style="margin-top: 30px; margin-bottom: 50px;"> Firmware </button>
 </form>
 
             <a href="https://drive.google.com/drive/u/1/folders/1B2GM1fcwV51vLE_9PwgWTxeGHP0479U9" target="_blank">
